@@ -1,5 +1,6 @@
 some text for header
 bbhkckxdzbkvz
 kd ck dc ald
-Chenges from <master> new chenges 
+Chenges from <master>
+Text from master:new chenges 
 
